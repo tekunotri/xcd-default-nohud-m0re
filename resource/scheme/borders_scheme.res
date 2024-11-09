@@ -502,7 +502,7 @@
 		"LoadoutItemPopupBorder"
 		{
 			"bordertype"									"scalable_image"
-			"color"											"HudBlack"
+			"color"											"33 33 33 255"
 			"image"											"White"
 			"src_corner_height"								"16"
 			"src_corner_width"								"16"

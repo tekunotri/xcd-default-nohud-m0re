@@ -8,10 +8,10 @@
 		
 		"Health Numbers"									"0 0 0 255"
 
-		"Health Buff"										"0 0 0 255"
-		"Health Buff Target"								"0 0 0 255"
-		"Health Buff Spec"									"0 0 0 255"
-		"Health Buff Killer"								"0 0 0 255"
+		"Health Buff"										"255 255 255 255"
+		"Health Buff Target"								"255 255 255 255"
+		"Health Buff Spec"									"255 255 255 255"
+		"Health Buff Killer"								"255 255 255 255"
 
 		"Health Hurt"										"255 0 0 255"
 		"Health Hurt Target"								"255 255 255 255"
