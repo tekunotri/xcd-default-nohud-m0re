@@ -229,6 +229,7 @@
 		"enabled"									"1"
 		"xpos"										"0"
 		"ypos"										"c122"
+		"ypos_minmode"								"c172"
 		"wide"										"252"
 		"tall"										"32"
 		"priority"									"35"

@@ -9,8 +9,8 @@
 	{
 		"ControlName"								"EditablePanel"
 		"fieldName"									"AmmoAnchor"
-		"xpos"										"9999"
-		"ypos"										"9999"
+		"xpos"										"9999" // take the values from minmode if you want ammo in minmode 0
+		"ypos"										"9999" // tldr: turned off in minmode 0
 		"xpos_minmode"								"c100"
 		"ypos_minmode"								"c85"
 		"zpos"										"0"

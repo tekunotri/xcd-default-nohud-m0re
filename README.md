@@ -1,7 +1,8 @@
-![logo](https://i.imgur.com/HVyxIC3.png)
+# xcd-default-techno // [screens album](https://imgur.com/a/yyDVGCV)
 
-<div align="center">
+recreation of xcd859's default hud in m0re classic, works on all aspect ratios (only tested in 4:3 and 16:9)
 
-This branch features a "stripped down" version of m0rehud, this version doesn't include any customizations or extra edits, this is effectively a 2011 m0rehud updated to work with the current TF2 updates. This version won't be updated as often as I intend to update it only for bug fixes and TF2 updates (not many nowadays uh)
-
-</div>
+![menu](https://i.imgur.com/A9agD49.jpeg)
+![spey](https://i.imgur.com/sSKi9Wf.jpeg)
+![minmode off](https://i.imgur.com/JXCbhcY.jpeg)
+![minmode on](https://i.imgur.com/DMnn90r.jpeg)
