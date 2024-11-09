@@ -249,20 +249,21 @@
 		"Replay.RenderDialog.BgColor"						"LighterDarkBrown"
 
 		"Econ.Dialog.BgColor"								"Blank"
-		"Econ.Button.BgColor"								"TanDark"
-		"Econ.Button.FgColor"								"TanLight"
-		"Econ.Button.ArmedBgColor"							"TFOrange"
-		"Econ.Button.ArmedFgColor"							"TanLight"
-		"Econ.Button.DepressedBgColor"						"TFOrange"
+		"Econ.Button.BgColor"								"Black"
+		"Econ.Button.FgColor"								"White"
+		"Econ.Button.ArmedBgColor"							"Menu Labels"
+		"Econ.Button.ArmedFgColor"							"White"
+		"Econ.Button.DepressedBgColor"						"Black"
 		"Econ.Button.DepressedFgColor"						"Black"
 
 		"Econ.Button.PresetDefaultColorFg"					"TanLight"
-		"Econ.Button.PresetArmedColorFg"					"TanLight"
+		"Econ.Button.PresetArmedColorFg"					"White"
 		"Econ.Button.PresetDepressedColorFg"				"TanLight"
 
-		"Econ.Button.PresetDefaultColorBg"					"LighterRed"
-		"Econ.Button.PresetArmedColorBg"					"LightRed"
-		"Econ.Button.PresetDepressedColorBg"				"TFOrange"
+		"Econ.Button.PresetDefaultColorBg"					"Menu Labels"
+		"Econ.Button.PresetArmedColorBg"					"Menu Labels"
+		"Econ.Button.PresetDepressedColorBg"				"Menu Labels"
+
 
 		"Border.Bright"										"Blank"
 		"Border.Dark"										"Black"
