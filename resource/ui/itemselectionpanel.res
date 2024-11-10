@@ -131,7 +131,7 @@
 		"enabled"									"1"
 		"paintbackground"							"1"
 		"paintbackgroundtype"						"0"
-		"bgcolor_override"							"Lighter0 0 0 255"
+		"bgcolor_override"							"0 0 0 255"
 
 		"Icon"
 		{
