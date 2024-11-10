@@ -424,8 +424,8 @@
 	}
 	"HudDeathNotice"
 	{
-		"xpos"	 									"15"
-		"ypos"	 									"14"
+		"xpos"	 									"r844"
+		"ypos"	 									"7"
 		"wide"	 									"845"
 		"tall"	 									"498"
 
@@ -436,7 +436,8 @@
 		"CornerRadius"	  							"1.5"
 		"RightJustify"	  							"0"
 
-		"TextFont"									"m0refont11"
+		"TextFont"									"cata14"
+		"TextFont_minmode"							"m0refont12"
 
 		"TeamBlue"									"255 255 255 255"
 		"TeamRed"									"255 255 255 255"
@@ -1186,7 +1187,7 @@
 		"tall"										"480"
 		"visible"									"1"
 		"enabled"									"1"
-		"bgcolor_override"							"0 0 0 255"
+		"bgcolor_override"							"0 0 0 0"
 		"PaintBackgroundType"						"0"
 	}
 	"HudAlert"
@@ -1208,7 +1209,7 @@
 		"tall"										"480"
 		"visible"									"1"
 		"enabled"									"1"
-		"bgcolor_override"							"0 0 0 255"
+		"bgcolor_override"							"0 0 0 0"
 		"PaintBackgroundType"						"0"
 	}
 	"CTFFlagCalloutPanel"

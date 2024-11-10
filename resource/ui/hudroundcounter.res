@@ -49,11 +49,11 @@
 	{
 		"ControlName"								"ScalableImagePanel"
 		"fieldName"									"BackgroundBlue"
-		"xpos"										"cs-1"
+		"xpos"										"9999"
 		"ypos"										"0"
 		"zpos"										"0"
 		"wide"										"38"
-		"tall"										"0" //nuked, default: 10
+		"tall"										"10"
 		"image"										"../HUD/color_panel_blu"
 		"proportionaltoparent"						"1"
 
@@ -66,11 +66,11 @@
 	{
 		"ControlName"								"ScalableImagePanel"
 		"fieldName"									"BackgroundRed"
-		"xpos"										"cs+0"
+		"xpos"										"9999"
 		"ypos"										"0"
 		"zpos"										"0"
 		"wide"										"38"
-		"tall"										"0" //nuked, default: 10
+		"tall"										"10"
 		"image"										"../HUD/color_panel_red"
 		"proportionaltoparent"						"1"
 
@@ -83,11 +83,11 @@
 	{
 		"ControlName"								"ScalableImagePanel"
 		"fieldName"									"BackgroundGrey"
-		"xpos"										"cs-0.5"
+		"xpos"										"9999"
 		"ypos"										"-2"
 		"zpos"										"-1"
 		"wide"										"80"
-		"tall"										"0" //nuked, default: 26
+		"tall"										"26"
 		"image"										"../HUD/color_panel_brown"
 		"proportionaltoparent"						"1"
 

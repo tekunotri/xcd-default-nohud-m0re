@@ -35,7 +35,7 @@
 		"fieldName"   		"Image"
         "xpos"    			"cs-0.5"    
 		"ypos"   			"c155"   
-		"ypos_minmode"		"c105"
+		"ypos_minmode"		"c101"
 		"zpos"    			"1"    
 		"wide"    			"52"    
 		"tall"    			"50"
