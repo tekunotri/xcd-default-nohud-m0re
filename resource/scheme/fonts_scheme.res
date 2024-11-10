@@ -355,6 +355,17 @@
 				"antialias" 								"1"
 			}
 		}
+		cata14shadow
+		{
+			"1"
+			{
+				"name"										"Catamaran SemiBold"
+				"tall"										"14"
+				"additive"									"0"
+				"dropshadow"								"1"
+				"antialias" 								"1"
+			}
+		}
 		cata15
 		{
 			"1"
@@ -451,6 +462,16 @@
 			{
 				"name"										"Catamaran SemiBold"
 				"tall"										"24"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		cata28
+		{
+			"1"
+			{
+				"name"										"Catamaran SemiBold"
+				"tall"										"28"
 				"additive"									"0"
 				"antialias" 								"1"
 			}
