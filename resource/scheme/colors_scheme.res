@@ -6,17 +6,17 @@
 		// M0RE HUD COLOR CUSTOMIZATION
 		//=========================================================================================
 		
-		"Health Numbers"									"0 0 0 255"
+		"Health Numbers"									"255 255 255 255"
 
 		"Health Buff"										"255 255 255 255"
-		"Health Buff Target"								"255 255 255 255"
-		"Health Buff Spec"									"255 255 255 255"
-		"Health Buff Killer"								"255 255 255 255"
+		"Health Buff Target"								"116 255 116 255"
+		"Health Buff Spec"									"116 255 116 255"
+		"Health Buff Killer"								"0 0 0 255"
 
 		"Health Hurt"										"255 0 0 255"
-		"Health Hurt Target"								"255 255 255 255"
-		"Health Hurt Spec"									"255 0 0 255"
-		"Health Hurt Killer"								"255 0 0 255"
+		"Health Hurt Target"								"184 0 0 255"
+		"Health Hurt Spec"									"184 0 0 255"
+		"Health Hurt Killer"								"184 0 0 255"
 
 		"Ammo In Clip"										"255 255 255 255"
 		"Ammo In Reserve"									"255 255 255 255"

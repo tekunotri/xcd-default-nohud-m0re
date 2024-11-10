@@ -436,7 +436,8 @@
 		"CornerRadius"	  							"1.5"
 		"RightJustify"	  							"0"
 
-		"TextFont"									"m0refont11"
+		"TextFont"									"cata14"
+		"TextFont_minmode"							"m0refont12"		
 
 		"TeamBlue"									"255 255 255 255"
 		"TeamRed"									"255 255 255 255"
@@ -726,9 +727,10 @@
 	"HudControlPointIcons"
 	{
 		"fieldName"									"HudControlPointIcons"
-		"xpos"										"0"
+		"xpos"										"9999"
+		"xpos_minmode"								"0"
 		"ypos"										"410"
-		"wide"										"f0"
+		"wide"										"0"
 		"tall"										"200"
 		"visible"									"1"
 		"enabled"									"1"

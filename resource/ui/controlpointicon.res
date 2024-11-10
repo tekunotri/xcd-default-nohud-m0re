@@ -2,102 +2,121 @@
 {
 	"ControlPointIcon"
 	{
-		"ControlName"								"EditablePanel"
-		"fieldName"									"ControlPointIcon"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"2"
-		"wide"										"24"
-		"tall"										"24"
-		"visible"									"1"
-		"enabled"									"1"
+		"ControlName"	"EditablePanel"
+		"fieldName"	"ControlPointIcon"
+		"xpos"		"0"
+		"ypos"		"0"
+		"zpos"		"1"
+		"wide"		"0" //26
+		"tall"		"0" //26
+		"wide_minmode"		"26" //26
+		"tall_minmode"		"26" //26
+		"visible"	"1"
+		"enabled"	"0"
 	}
+	
 	"Countdown"
 	{
-		"ControlName"								"CControlPointCountdown"
-		"fieldName"									"Countdown"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"4"
-		"wide"										"24"
-		"tall"										"24"
-		"visible"									"1"
-		"enabled"									"1"
-	}
+		"ControlName"	"CControlPointCountdown"
+		"fieldName"	"Countdown"
+		"xpos"		"0"
+		"ypos"		"0"
+		"zpos"		"4"
+		"wide"		"0" //26
+		"tall"		"0" //26
+		"wide_minmode"		"26" //26
+		"tall_minmode"		"26" //26
+		"visible"	"1"
+		"enabled"	"0"
+	}	
+
 	"CapPlayerImage"
 	{
-		"ControlName"								"ImagePanel"
-		"fieldName"									"CapPlayerImage"
-		"xpos"										"0"
-		"ypos"										"2"
-		"zpos"										"3"
-		"wide"										"10"
-		"tall"										"12"
-		"visible"									"0"
-		"enabled"									"1"
-		"image"										"capture_icon"
-		"scaleImage"								"1"
+		"ControlName"	"ImagePanel"		
+		"fieldName"	"CapPlayerImage"
+		"xpos"		"0"
+		"ypos"		"0"
+		"zpos"		"3"
+		"wide"		"0" //9
+		"tall"		"0" //16
+		"wide_minmode"		"9" //9
+		"tall_minmode"		"16" //16
+		"visible"	"1"
+		"enabled"	"0"
+		"image"		"capture_icon"
+		"scaleImage"	"1"
 	}
+
 	"CapNumPlayers"
-	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"CapNumPlayers"
-		"font"										"m0refont18"
-		"xpos"										"6"
-		"ypos"										"0"
-		"zpos"										"3"
-		"wide"										"24"
-		"tall"										"22"
-		"visible"									"1"
-		"enabled"									"1"
-		"labelText"									"#ControlPointIconCappers"
-		"textAlignment"								"west"
+	{	
+		"ControlName"		"Label"
+		"fieldName"		"CapNumPlayers"
+		"font"			"m0refont18"
+		"xpos"			"2"
+		"ypos"			"-5"
+		"zpos"			"4"
+		"wide"			"0" //23
+		"tall"			"0" //36
+		"wide_minmode"			"23" //23
+		"tall_minmode"			"36" //36
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"labelText"		"#ControlPointIconCappers"
+		"textAlignment"		"center"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"fgcolor_override"	"0 0 0 255"
 	}
+
 	"OverlayImage"
 	{
-		"ControlName"								"ImagePanel"
-		"fieldName"									"OverlayImage"
-		"xpos"										"18"
-		"ypos"										"0"
-		"zpos"										"4"
-		"wide"										"6"
-		"tall"										"6"
-		"visible"									"0"
-		"enabled"									"1"
-		"image"										"capture_icon"
-		"scaleImage"								"1"
+		"ControlName"	"ImagePanel"		
+		"fieldName"	"OverlayImage"
+		"xpos"		"17"
+		"ypos"		"0"
+		"zpos"		"4"
+		"wide"		"0" //8
+		"tall"		"0" //8
+		"wide_minmode"		"8" //8
+		"tall_minmode"		"8" //8
+		"visible"	"0"
+		"enabled"	"0"
+		"image"		"capture_icon"
+		"scaleImage"	"1"
 	}
 	"CPTimerLabel"
 	{
-		"ControlName"								"CExLabel"
-		"fieldName"									"CPTimerLabel"
-		"xpos"										"0"
-		"ypos"										"0"
-		"zpos"										"0"
-		"wide"										"20"
-		"tall"										"20"
-		"visible"									"0"
-		"enabled"									"1"
-		"labelText"									"60"
-		"textAlignment"								"center"
-		"font"										"m0refont12"
+		"ControlName"	"CExLabel"
+		"fieldName"		"CPTimerLabel"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"0"
+		"wide"			"9"
+		"tall"			"20"
+		"visible"		"0"
+		"enabled"		"1"
+		"labelText"		"60"
+		"textAlignment"	"center"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"wrap"			"0"
+		"font"			"ControlPointTimerSmaller"
 	}
-
-
-
-	//==================================================================================================================================================
-	// REMOVED ELEMENTS
-	//==================================================================================================================================================
-
+				
 	"CPTimerBG"
 	{
-		"ControlName"								"Panel"
-		"fieldName"									"CPTimerBG"
-		"xpos"										"9999"
-		"ypos"										"9999"
-		"wide"										"0"
-		"tall"										"0"
-		"visible"									"0"
-		"enabled"									"0"
+		"ControlName"	"Panel"
+		"fieldName"		"CPTimerBG"
+		"xpos"			"0"
+		"ypos"			"0"
+		"zpos"			"-1"
+		"wide"		"52"
+		"tall"		"26"
+		"visible"		"0"
+		"enabled"		"1"
+		"image"			"../sprites/obj_icons/icon_obj_timer"	
+		"scaleImage"	"1"	
 	}
 }
