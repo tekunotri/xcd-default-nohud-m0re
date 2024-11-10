@@ -229,7 +229,7 @@
 		"enabled"									"1"
 		"xpos"										"0"
 		"ypos"										"c122"
-		"ypos_minmode"								"c172"
+		"ypos_minmode"								"c182"
 		"wide"										"252"
 		"tall"										"32"
 		"priority"									"35"
@@ -1188,7 +1188,7 @@
 		"tall"										"480"
 		"visible"									"1"
 		"enabled"									"1"
-		"bgcolor_override"							"0 0 0 255"
+		"bgcolor_override"							"0 0 0 0"
 		"PaintBackgroundType"						"0"
 	}
 	"HudAlert"
