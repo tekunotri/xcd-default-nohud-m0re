@@ -156,9 +156,10 @@
 
 			"if_match"
 			{
-				"ypos"								"5"
+				"ypos"								"0"
 				"tall"								"16"
-				"font"								"m0refont14"
+				"font"								"cata21"
+				"font_minmode"						"m0refont14"
 			}
 		}
 	}
@@ -271,7 +272,8 @@
 			{
 				"ControlName"						"CExLabel"
 				"fieldName"							"respawntime"
-				"font"								"m0refont12Shadow"
+				"font"								"cata14shadow"
+				"font_minmode"						"m0refont12Shadow"
 				"xpos"								"cs-0.5"
 				"ypos"								"cs-0.5"
 				"zpos"								"10"

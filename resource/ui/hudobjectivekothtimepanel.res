@@ -30,7 +30,8 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TimePanelValue"
-			"font"									"m0refont16"
+			"font"									"cata20"
+			"font_minmode"							"m0refont16"
 			"fgcolor"								"White"
 			"xpos"									"cs-0.5"
 			"ypos"									"-2"
@@ -47,7 +48,8 @@
 			{
 				"ypos"								"5"
 				"tall"								"16"
-				"font"								"m0refont14"
+				"font"								"cata18"
+				"font_minmode"						"m0refont14"
 			}
 		}
 	}
@@ -73,7 +75,8 @@
 		{
 			"ControlName"							"CExLabel"
 			"fieldName"								"TimePanelValue"
-			"font"									"m0refont16"
+			"font"									"cata20"
+			"font_minmode"							"m0refont16"
 			"fgcolor"								"White"
 			"xpos"									"cs-0.5"
 			"ypos"									"-2"
@@ -90,7 +93,8 @@
 			{
 				"ypos"								"5"
 				"tall"								"16"
-				"font"								"m0refont14"
+				"font"								"cata18"
+				"font_minmode"						"m0refont14"
 			}
 		}
 	}

@@ -10,11 +10,11 @@ event HudHealthBonusPulse
 	Animate HealthValue_Shadow						FgColor		"Health Buff"						Linear	0.0		0.0
 	Animate HealthValue_Shadow_Extra				Alpha		"255"								Linear	0.0		0.0
 
-	Animate HealthValue_Target						FgColor		"Health Buff Target"				Linear	0.0		0.0
+	Animate HealthValue_Target						FgColor		"116 255 116"						Linear	0.0		0.0
 
-	Animate HealthValue_Spectator					FgColor		"Health Buff Spec"					Linear	0.0		0.0
+	Animate HealthValue_Spectator					FgColor		"116 255 116"						Linear	0.0		0.0
 
-	Animate HealthValue_Killer_Shadow				FgColor		"Health Buff Killer"				Linear	0.0		0.0
+	Animate HealthValue_Killer_Shadow				FgColor		"0 0 0"								Linear	0.0		0.0
 	Animate HealthValue_Killer_Shadow_Extra			Alpha		"255"								Linear	0.0		0.0
 
 	RunEvent HudHealthBonusPulseLoop				0.4
@@ -29,9 +29,9 @@ event HudHealthBonusPulseStop
 	Animate HealthValue_Shadow						FgColor		"Black"								Linear	0.0		0.0
 	Animate HealthValue_Shadow_Extra				Alpha		"0"									Linear	0.0		0.0
 
-	Animate HealthValue_Target						FgColor		"Health Numbers"					Linear	0.0		0.0
+	Animate HealthValue_Target						FgColor		"255 255 255"						Linear	0.0		0.0
 
-	Animate HealthValue_Spectator					FgColor		"Health Numbers"					Linear	0.0		0.0
+	Animate HealthValue_Spectator					FgColor		"255 255 255"						Linear	0.0		0.0
 
 	Animate HealthValue_Killer_Shadow				FgColor		"Black"								Linear	0.0		0.0
 	Animate HealthValue_Killer_Shadow_Extra			Alpha		"0"									Linear	0.0		0.0
@@ -51,14 +51,14 @@ event HudHealthDyingPulse
 	Animate HealthValue_Shadow						FgColor		"Health Hurt"						Linear	0.0		0.0
 	Animate HealthValue_Shadow_Extra				Alpha		"255"								Linear	0.0		0.0
 
-	Animate HealthValue_Target						FgColor		"Health Hurt Target"				Linear	0.0		0.0
+	Animate HealthValue_Target						FgColor		"184 0 0"							Linear	0.0		0.0
 
-	Animate HealthValue_Spectator					FgColor		"Health Hurt Spec"					Linear	0.0		0.0
+	Animate HealthValue_Spectator					FgColor		"184 0 0"							Linear	0.0		0.0
 
-	Animate HealthValue_Killer_Shadow				FgColor		"Health Hurt Killer"				Linear	0.0		0.0
+	Animate HealthValue_Killer_Shadow				FgColor		"0 0 0"								Linear	0.0		0.0
 	Animate HealthValue_Killer_Shadow_Extra			Alpha		"255"								Linear	0.0		0.0
 
-	RunEvent HudHealthDyingPulseLoop				0.25
+	RunEvent HudHealthDyingPulseLoop				0.35
 }
 event HudHealthDyingPulseStop
 {
@@ -72,9 +72,9 @@ event HudHealthDyingPulseStop
 	Animate HealthValue_Shadow						FgColor		"Black"								Linear	0.0		0.0
 	Animate HealthValue_Shadow_Extra				Alpha		"0"									Linear	0.0		0.0
 
-	Animate HealthValue_Target						FgColor		"Health Numbers"					Linear	0.0		0.0
+	Animate HealthValue_Target						FgColor		"255 255 255"						Linear	0.0		0.0
 
-	Animate HealthValue_Spectator					FgColor		"Health Numbers"					Linear	0.0		0.0
+	Animate HealthValue_Spectator					FgColor		"255 255 255"						Linear	0.0		0.0
 
 	Animate HealthValue_Killer_Shadow				FgColor		"Black"								Linear	0.0		0.0
 	Animate HealthValue_Killer_Shadow_Extra			Alpha		"0"									Linear	0.0		0.0
