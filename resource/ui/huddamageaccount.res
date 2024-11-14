@@ -10,9 +10,9 @@
 		"text_y"			      		"0"
 		"delta_item_end_y"				"0"
 		"delta_lifetime"	  			"1.1"
-		"delta_item_font"				"cata24"
+		"delta_item_font"				"cata24outline"
 		"delta_item_font_minmode"	  	"m0refont18"
-		"delta_item_font_big"			"cata24"
+		"delta_item_font_big"			"cata24outline"
 		"delta_item_font_big_minmode"	"m0refont18"
 	}
 	"DamageAccountValue"
@@ -32,7 +32,7 @@
 		"enabled"		"1"
 		"labelText"		"%metal%"
 		"textAlignment"	"center"
-		"font"			"cata24"
+		"font"			"cata24outline"
 		"font_minmode"	"m0refont24"
 	}
 	"DamageAccountValueShadow"

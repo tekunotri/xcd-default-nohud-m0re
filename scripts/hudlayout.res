@@ -27,8 +27,10 @@
 		"fieldName"									"HudObjectiveStatus"
 		"visible"									"1"
 		"enabled"									"1"
-		"xpos"										"0"
-		"ypos"										"0"
+		"xpos"										"9999"
+		"xpos_minmode"								"0"
+		"ypos"										"9999"
+		"ypos_minmode"								"0"
 		"wide"										"f0"
 		"tall"										"480"
 	}
@@ -727,7 +729,8 @@
 	"HudControlPointIcons"
 	{
 		"fieldName"									"HudControlPointIcons"
-		"xpos"										"0"
+		"xpos"										"9999"
+		"xpos_minmode"								"0"
 		"ypos"										"410"
 		"wide"										"f0"
 		"tall"										"200"

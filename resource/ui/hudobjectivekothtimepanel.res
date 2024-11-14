@@ -34,7 +34,7 @@
 			"font_minmode"							"m0refont16"
 			"fgcolor"								"White"
 			"xpos"									"cs-0.5"
-			"ypos"									"-2"
+			"ypos"									"0"
 			"zpos"									"3"
 			"wide"									"f0"
 			"tall"									"15"
@@ -46,7 +46,7 @@
 
 			"if_match"
 			{
-				"ypos"								"5"
+				"ypos"								"0"
 				"tall"								"16"
 				"font"								"cata18"
 				"font_minmode"						"m0refont14"
@@ -79,7 +79,7 @@
 			"font_minmode"							"m0refont16"
 			"fgcolor"								"White"
 			"xpos"									"cs-0.5"
-			"ypos"									"-2"
+			"ypos"									"0"
 			"zpos"									"3"
 			"wide"									"f0"
 			"tall"									"15"
@@ -91,7 +91,7 @@
 
 			"if_match"
 			{
-				"ypos"								"5"
+				"ypos"								"0"
 				"tall"								"16"
 				"font"								"cata18"
 				"font_minmode"						"m0refont14"

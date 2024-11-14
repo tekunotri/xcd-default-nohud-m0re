@@ -376,6 +376,17 @@
 				"antialias" 								"1"
 			}
 		}
+		cata15outline
+		{
+			"1"
+			{
+				"name"										"Catamaran SemiBold"
+				"tall"										"15"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		cata16
 		{
 			"1"
@@ -466,6 +477,17 @@
 				"antialias" 								"1"
 			}
 		}
+		cata24outline
+		{
+			"1"
+			{
+				"name"										"Catamaran SemiBold"
+				"tall"										"24"
+				"additive"									"0"
+				"antialias" 								"1"
+				"outline"									"1"
+			}
+		}
 		cata28
 		{
 			"1"
@@ -474,6 +496,38 @@
 				"tall"										"28"
 				"additive"									"0"
 				"antialias" 								"1"
+			}
+		}
+		cata32
+		{
+			"1"
+			{
+				"name"										"Catamaran SemiBold"
+				"tall"										"32"
+				"additive"									"0"
+				"antialias"									"1"
+			}
+		}
+		cata32shadow
+		{
+			"1"
+			{
+				"name"										"Catamaran SemiBold"
+				"tall"										"32"
+				"additive"									"0"
+				"antialias"									"1"
+				"dropshadow"								"1"
+			}
+		}
+		cata32outline
+		{
+			"1"
+			{
+				"name"										"Catamaran SemiBold"
+				"tall"										"32"
+				"additive"									"0"
+				"antialias"									"1"
+				"outline"									"1"
 			}
 		}
 		"Default"
